@@ -52,3 +52,53 @@
 ```
     const double PI = 3.14;
 ```
+
+### If Statement
+
+1. If + Else
+
+```
+int age = 15;
+
+if (age >= 18)
+{
+    Console.WriteLine("You are an adult.");
+}
+else
+{
+    Console.WriteLine("You are a minor.");
+}
+
+```
+
+2.  If - Else if - Else
+
+```
+int grade = 85;
+
+if (grade >= 90)
+{
+    Console.WriteLine("A");
+}
+else if (grade >= 80)
+{
+    Console.WriteLine("B");
+}
+else if (grade >= 70)
+{
+    Console.WriteLine("C");
+}
+else
+{
+    Console.WriteLine("Failed");
+}
+```
+
+3. Ternary Operator ( Short Version)
+
+```
+int age = 20;
+string result = (age >= 18) ? "Adult" : "Minor";
+Console.WriteLine(result);
+
+```
