@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\myapp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\myapp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\myapp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\MyApp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\myapp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\anon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\anon\\Desktop\\base\\csharp-beg\\myapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anon\\AppData\\Roaming\\NuGet\\NuGet.Config"

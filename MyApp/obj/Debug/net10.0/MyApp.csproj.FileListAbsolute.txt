@@ -12,3 +12,4 @@ C:\Users\anon\Desktop\base\csharp-beg\MyApp\obj\Debug\net10.0\refint\MyApp.dll
 C:\Users\anon\Desktop\base\csharp-beg\MyApp\obj\Debug\net10.0\MyApp.pdb
 C:\Users\anon\Desktop\base\csharp-beg\MyApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
 C:\Users\anon\Desktop\base\csharp-beg\MyApp\obj\Debug\net10.0\ref\MyApp.dll
+C:\Users\anon\Desktop\base\csharp-beg\myapp\obj\Debug\net10.0\MyApp.sourcelink.json
